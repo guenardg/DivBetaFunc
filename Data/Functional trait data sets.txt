@@ -1,0 +1,25 @@
+Matrices de données R sur les traits fonctionnels
+
+• adespatial:Tiahura
+280 fish species observer at 22 sites, 22 habitat variables, 5 traits (1 ordered, 4 factors)
+
+• ade4::aviurba
+51 sites, 11 environmental variables, 4 biological traits (factors)
+
+• cluster::plantTraits
+136 plant species, 31 biological attributes (morphological or reproductive)
+
+• mvabund::antTraits	
+Abundances of 41 epigaeic ant species across 30 sites in south-eastern Australia;
+5 species trait; 7 environmental variables
+
+• FD::dummy
+Dummy Functional Trait Dataset; artificial data
+8 species and 8 functional traits (2 continuous, 2 nominal, 2 ordinal, and 2 binary)
+
+• FD::tussock
+Functional Composition of Short-Tussock Grasslands
+53 plant species in 30 plots, 16 functional traits (quantitative and factors)
+
+========
+
